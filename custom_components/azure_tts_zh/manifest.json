@@ -1,6 +1,6 @@
 {
   "domain": "azure_tts_zh",
-  "name": "Azure TTS 中文",
+  "name": "Azure TTS(中文版)",
   "version": "v0.0.5",
   "config_flow": false,
   "documentation": "https://github.com/georgezhao2010/azure_cognitive_speech",
