@@ -1,4 +1,4 @@
-DOMAIN = "azure_cognitive_speech"
+DOMAIN = "azure_tts_zh"
 OPT_VOICE = "voice"
 OPT_STYLE = "style"
 OPT_ROLE = "role"
