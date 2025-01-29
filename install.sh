@@ -1,7 +1,7 @@
 #!/bin/bash
 
-source_dir="./custom_components/azure_tts_zh"
-target_dir="../custom_components/azure_tts_zh"
+source_dir="./custom_components/leonhome_tts"
+target_dir="../custom_components/leonhome_tts"
 
 if [ ! -d "$source_dir" ]; then
     exit 1

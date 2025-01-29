@@ -1,6 +1,6 @@
 {
-  "domain": "azure_tts_zh",
-  "name": "Azure TTS 中文增强",
+  "domain": "leonhome_tts",
+  "name": "LeonHome TTS",
   "version": "v0.1.0",
   "config_flow": false,
   "documentation": "https://github.com/georgezhao2010/azure_cognitive_speech",

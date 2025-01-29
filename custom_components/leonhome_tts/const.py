@@ -1,11 +1,11 @@
-DOMAIN = "azure_tts_zh"
+DOMAIN = "leonhome_tts"
 OPT_VOICE = "voice"
 OPT_STYLE = "style"
 OPT_ROLE = "role"
 OPT_SPEED = "speed"
 CONF_DEFAULT_VOICE = "default_voice"
 DEFAULT_LANGUAGE = "zh-CN"
-DEFAULT_VOICE = "Xiaoxiao"
+DEFAULT_VOICE = "Xiaoxzhen"
 ENDPOINT_URI = "https://{}.api.cognitive.microsoft.com/sts/v1.0/issuetoken"
 TTS_URL = "https://{}.tts.speech.microsoft.com/cognitiveservices/v1"
 TOKEN_OUTDATE = 720
