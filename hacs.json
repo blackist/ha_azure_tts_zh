@@ -1,5 +1,5 @@
 {
-    "name": "Azure Cognitive Speech Component",
+    "name": "Azure TTS 中文增强",
     "domains": ["tts"],
     "render_readme": true
 }
